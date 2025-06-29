@@ -18,7 +18,7 @@ This repository contains all tasks completed as part of the **CODTECH MERN Stack
 - Styled chat interface
 
 ### Run:
--- bash
+bash
 cd task1-chat-app
 npm install
 npm start
