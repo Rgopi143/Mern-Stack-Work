@@ -19,12 +19,15 @@ This repository contains all tasks completed as part of the **CODTECH MERN Stack
 
 ### Run:
 bash
+
 cd task1-chat-app
+
 npm install
+
 npm start
 
 ---
-##✅ Task 2: E-Commerce Web App 🛒
+✅ Task 2: E-Commerce Web App 🛒
 Frontend: React
 Backend: Node.js, Express.js
 Database: MongoDB
