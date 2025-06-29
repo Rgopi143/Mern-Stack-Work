@@ -58,10 +58,10 @@ npm start
 **Database:** MongoDB
 
 ### Features:
--Sign up & login system
--JWT token-based authentication
--Protected routes
--User dashboard
+- Sign up & login system
+- JWT token-based authentication
+- Protected routes
+- User dashboard
 
 ### Run:
 bash
@@ -80,10 +80,10 @@ npm start
 **Database:** MongoDB
 
 ### Features:
--Create, edit, delete blogs
--Markdown support
--View blog posts by others
--Author dashboard
+- Create, edit, delete blogs
+- Markdown support
+- View blog posts by others
+- Author dashboard
 
 ### Run:
 bash
