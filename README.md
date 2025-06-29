@@ -108,8 +108,11 @@ npm start
 **Database:** MongoDB Atlas
 **Others:** JWT, Socket.IO, Mongoose
 
+---
 ## 📄 License
 This project is licensed under the MIT License.
+
+---
 
 ## ✨ Author
 R. Gopinath Reddy
