@@ -70,7 +70,7 @@ npm start
 
 ---
 
-✅ Task 4: Blog Application ✍️
+## ✅ Task 4: Blog Application ✍️
 
 **Frontend:** React
 **Backend:** Node.js, Express
