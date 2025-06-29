@@ -28,71 +28,72 @@ npm start
 
 ---
 
-##✅ Task 2: E-Commerce Web App 🛒
---
-Frontend: React
-Backend: Node.js, Express.js
-Database: MongoDB
+## ✅ Task 2: E-Commerce Web App 🛒
+-
+**Frontend:** React
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
 
-Features:
-Product listing with filters
+### Features:
+-Product listing with filters
+-User registration/login (with JWT)
+-Shopping cart and order management
+-Admin panel to manage products
 
-User registration/login (with JWT)
-
-Shopping cart and order management
-
-Admin panel to manage products
-
-Run:
+### Run:
 bash
 Copy
 Edit
 cd task2-ecommerce
 npm install
 npm start
-✅ Task 3: Authentication System 🔐
-Frontend: React
-Backend: Express, Node.js
-Database: MongoDB
 
-Features:
-Sign up & login system
+---
 
-JWT token-based authentication
 
-Protected routes
+## ✅ Task 3: Authentication System 🔐
 
-User dashboard
+**Frontend:** React
+**Backend:** Express, Node.js
+**Database:** MongoDB
 
-Run:
+### Features:
+-Sign up & login system
+-JWT token-based authentication
+-Protected routes
+-User dashboard
+
+### Run:
 bash
 Copy
 Edit
 cd task3-auth-system
 npm install
 npm start
+
+---
+
 ✅ Task 4: Blog Application ✍️
-Frontend: React
-Backend: Node.js, Express
-Database: MongoDB
 
-Features:
-Create, edit, delete blogs
+**Frontend:** React
+**Backend:** Node.js, Express
+**Database:** MongoDB
 
-Markdown support
+### Features:
+-Create, edit, delete blogs
+-Markdown support
+-View blog posts by others
+-Author dashboard
 
-View blog posts by others
-
-Author dashboard
-
-Run:
+### Run:
 bash
 Copy
 Edit
 cd task4-blog-app
 npm install
 npm start
-📦 Installation (For All Tasks)
+
+### 📦 Installation (For All Tasks)
 bash
 Copy
 Edit
@@ -101,19 +102,19 @@ cd mern-internship
 cd [task-folder]
 npm install
 npm start
-🛠️ Tools & Tech Stack
-Frontend: React.js, Axios, Tailwind CSS / Bootstrap
 
-Backend: Node.js, Express.js
+---
+## 🛠️ Tools & Tech Stack
 
-Database: MongoDB Atlas
+**Frontend:** React.js, Axios, Tailwind CSS / Bootstrap
+**Backend:** Node.js, Express.j
+**Database:** MongoDB Atlas
+**Others:** JWT, Socket.IO, Mongoose
 
-Others: JWT, Socket.IO, Mongoose
-
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
-✨ Author
+## ✨ Author
 R. Gopinath Reddy
 CODTECH MERN Stack Internship – 2025
 Email: [rgopinathreddyreddyvari38@gmail.com]
