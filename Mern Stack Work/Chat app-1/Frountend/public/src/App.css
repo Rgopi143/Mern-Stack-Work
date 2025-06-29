@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  font-family: Arial;
+}
+
+.login {
+  margin-top: 100px;
+}
+
+.chat-container {
+  margin: 20px auto;
+  width: 50%;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.chat-box {
+  height: 300px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+    
