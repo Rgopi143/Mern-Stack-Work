@@ -89,7 +89,7 @@ npm start
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/mern-internship.git
+git clone [https://github.com/yourusername/mern-internship.git](https://github.com/Rgopi143/Mern-Stack-Work.git)
 cd mern-internship
 cd [task-folder]
 npm install
