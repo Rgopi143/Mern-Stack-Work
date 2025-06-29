@@ -26,7 +26,7 @@ npm install
 
 npm start
 
----
+
 
 ## ✅ Task 2: E-Commerce Web App 🛒
 
@@ -35,10 +35,10 @@ npm start
 **Database:** MongoDB
 
 ### Features:
--Product listing with filters
--User registration/login (with JWT)
--Shopping cart and order management
--Admin panel to manage products
+- Product listing with filters
+- User registration/login (with JWT)
+- Shopping cart and order management
+- Admin panel to manage products
 
 ### Run:
 bash
