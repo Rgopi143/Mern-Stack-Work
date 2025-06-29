@@ -30,7 +30,7 @@ npm start
 
 ## ✅ Task 2: E-Commerce Web App 🛒
 
-**Frontend:** React
+**Frontend:**  React
 **Backend:** Node.js, Express.js
 **Database:** MongoDB
 
